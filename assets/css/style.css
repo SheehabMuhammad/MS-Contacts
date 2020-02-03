@@ -1,0 +1,36 @@
+.page-numbers.current {
+    display: inline-block;
+    padding: 4px 9px;
+    background: #fff;
+    border: 1px solid #e3e3e3;
+    margin: 0 2px;
+}
+.tablenav-pages .button {
+	margin: 0 1px;
+}
+.upload .wp-upload-form {
+    background: #fafafa;
+    border: 1px solid #e5e5e5;
+    padding: 30px;
+    margin: 30px auto;
+    max-width: 380px;
+}
+.upload {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 50px 0;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    top: 10px;
+    text-align: center;
+}
+.import-type-radio-wrapper {
+    text-align: left;
+    max-width: 260px;
+    margin: 1em auto;
+
+}
+.import-type-radio-wrapper p {
+    margin: 0.5em 0;
+}
